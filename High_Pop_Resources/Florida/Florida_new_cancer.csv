@@ -1,0 +1,68 @@
+Area,County,Cancer Type,Year,Sex,Age-Adjusted Rate,Case Count,Population
+Florida,Liberty County,All Types of Cancer,2016-2020,Male and Female,451.6,222,41667
+Florida,Lafayette County,All Types of Cancer,2016-2020,Male and Female,452,232,42878
+Florida,Holmes County,All Types of Cancer,2016-2020,Male and Female,267.2,365,97651
+Florida,Hamilton County,All Types of Cancer,2016-2020,Male and Female,405.9,382,71986
+Florida,Franklin County,All Types of Cancer,2016-2020,Male and Female,430.6,409,59572
+Florida,Glades County,All Types of Cancer,2016-2020,Male and Female,355.8,426,68886
+Florida,Calhoun County,All Types of Cancer,2016-2020,Male and Female,434.4,429,71620
+Florida,Jefferson County,All Types of Cancer,2016-2020,Male and Female,393.6,452,71392
+Florida,Madison County,All Types of Cancer,2016-2020,Male and Female,361.1,489,92783
+Florida,Gulf County,All Types of Cancer,2016-2020,Male and Female,439.9,527,75366
+Florida,Gilchrist County,All Types of Cancer,2016-2020,Male and Female,475.6,593,91226
+Florida,Washington County,All Types of Cancer,2016-2020,Male and Female,373.2,623,125470
+Florida,Dixie County,All Types of Cancer,2016-2020,Male and Female,483,647,83700
+Florida,Taylor County,All Types of Cancer,2016-2020,Male and Female,450.5,679,108544
+Florida,Baker County,All Types of Cancer,2016-2020,Male and Female,438.1,710,143393
+Florida,Hardee County,All Types of Cancer,2016-2020,Male and Female,453,716,135134
+Florida,Bradford County,All Types of Cancer,2016-2020,Male and Female,467.7,849,138614
+Florida,Hendry County,All Types of Cancer,2016-2020,Male and Female,385.9,860,207359
+Florida,Wakulla County,All Types of Cancer,2016-2020,Male and Female,476.5,962,164273
+Florida,Jackson County,All Types of Cancer,2016-2020,Male and Female,327.2,1075,237044
+Florida,DeSoto County,All Types of Cancer,2016-2020,Male and Female,414.4,1120,186856
+Florida,Union County,All Types of Cancer,2016-2020,Male and Female,1237.4,1186,76408
+Florida,Okeechobee County,All Types of Cancer,2016-2020,Male and Female,445.2,1290,208054
+Florida,Gadsden County,All Types of Cancer,2016-2020,Male and Female,454.7,1401,228933
+Florida,Suwannee County,All Types of Cancer,2016-2020,Male and Female,460.1,1515,221451
+Florida,Levy County,All Types of Cancer,2016-2020,Male and Female,501.1,1657,204897
+Florida,Walton County,All Types of Cancer,2016-2020,Male and Female,377.4,1940,355247
+Florida,Columbia County,All Types of Cancer,2016-2020,Male and Female,490.1,2349,354490
+Florida,Monroe County,All Types of Cancer,2016-2020,Male and Female,417.4,2494,375683
+Florida,Putnam County,All Types of Cancer,2016-2020,Male and Female,487.2,2793,368920
+Florida,Nassau County,All Types of Cancer,2016-2020,Male and Female,555.9,3624,428811
+Florida,Highlands County,All Types of Cancer,2016-2020,Male and Female,471.9,4843,522868
+Florida,Flagler County,All Types of Cancer,2016-2020,Male and Female,496,5237,564271
+Florida,Santa Rosa County,All Types of Cancer,2016-2020,Male and Female,481.4,5343,897936
+Florida,Okaloosa County,All Types of Cancer,2016-2020,Male and Female,432.6,5413,1037149
+Florida,Bay County,All Types of Cancer,2016-2020,Male and Female,483.9,5713,900378
+Florida,Leon County,All Types of Cancer,2016-2020,Male and Female,430.7,6400,1459316
+Florida,Alachua County,All Types of Cancer,2016-2020,Male and Female,455.2,6415,1340525
+Florida,Clay County,All Types of Cancer,2016-2020,Male and Female,495,6446,1076468
+Florida,Martin County,All Types of Cancer,2016-2020,Male and Female,432.4,6605,802102
+Florida,Indian River County,All Types of Cancer,2016-2020,Male and Female,503.5,7792,784821
+Florida,Citrus County,All Types of Cancer,2016-2020,Male and Female,524.9,8059,739690
+Florida,Sumter County,All Types of Cancer,2016-2020,Male and Female,444.8,8196,649688
+Florida,Osceola County,All Types of Cancer,2016-2020,Male and Female,450.2,8655,1818332
+Florida,Hernando County,All Types of Cancer,2016-2020,Male and Female,539.6,8831,953500
+Florida,St. Johns County,All Types of Cancer,2016-2020,Male and Female,488.8,8839,1277049
+Florida,Charlotte County,All Types of Cancer,2016-2020,Male and Female,450.8,9379,929628
+Florida,Escambia County,All Types of Cancer,2016-2020,Male and Female,499.3,9820,1583457
+Florida,St. Lucie County,All Types of Cancer,2016-2020,Male and Female,434.4,11005,1604571
+Florida,Seminole County,All Types of Cancer,2016-2020,Male and Female,456.9,12787,2333475
+Florida,Collier County,All Types of Cancer,2016-2020,Male and Female,402,14261,1896727
+Florida,Manatee County,All Types of Cancer,2016-2020,Male and Female,434.8,14734,1969235
+Florida,Lake County,All Types of Cancer,2016-2020,Male and Female,508,15298,1780576
+Florida,Marion County,All Types of Cancer,2016-2020,Male and Female,520.8,16364,1801051
+Florida,Pasco County,All Types of Cancer,2016-2020,Male and Female,499.9,20178,2699425
+Florida,Sarasota County,All Types of Cancer,2016-2020,Male and Female,475.5,21501,2138829
+Florida,Volusia County,All Types of Cancer,2016-2020,Male and Female,499.4,22079,2730534
+Florida,Polk County,All Types of Cancer,2016-2020,Male and Female,473.1,22953,3528675
+Florida,Brevard County,All Types of Cancer,2016-2020,Male and Female,497.8,23723,2970006
+Florida,Duval County,All Types of Cancer,2016-2020,Male and Female,508.1,27090,4743255
+Florida,Lee County,All Types of Cancer,2016-2020,Male and Female,423.9,27692,3782849
+Florida,Orange County,All Types of Cancer,2016-2020,Male and Female,420.6,29120,6868919
+Florida,Pinellas County,All Types of Cancer,2016-2020,Male and Female,476.9,38118,4854925
+Florida,Hillsborough County,All Types of Cancer,2016-2020,Male and Female,478.1,38955,7256792
+Florida,Palm Beach County,All Types of Cancer,2016-2020,Male and Female,419.6,48797,7410285
+Florida,Broward County,All Types of Cancer,2016-2020,Male and Female,412,50592,9711363
+Florida,Miami-Dade County,All Types of Cancer,2016-2020,Male and Female,415.1,69510,13527642
