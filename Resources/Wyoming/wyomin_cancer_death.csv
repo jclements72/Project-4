@@ -1,0 +1,24 @@
+Area,County,Cancer Type,Year,Sex,Age-Adjusted Rate,Death Count,Population
+Wyoming,Niobrara County,All Types of Cancer,2016-2020,Male and Female,99.4,21,11886
+Wyoming,Sublette County,All Types of Cancer,2016-2020,Male and Female,81.8,56,49325
+Wyoming,Hot Springs County,All Types of Cancer,2016-2020,Male and Female,175.1,78,22751
+Wyoming,Weston County,All Types of Cancer,2016-2020,Male and Female,145.8,79,34708
+Wyoming,Crook County,All Types of Cancer,2016-2020,Male and Female,159.5,90,37508
+Wyoming,Washakie County,All Types of Cancer,2016-2020,Male and Female,140.4,92,39663
+Wyoming,Johnson County,All Types of Cancer,2016-2020,Male and Female,131.5,98,42590
+Wyoming,Platte County,All Types of Cancer,2016-2020,Male and Female,136.8,110,42854
+Wyoming,Teton County,All Types of Cancer,2016-2020,Male and Female,93.3,115,116781
+Wyoming,Carbon County,All Types of Cancer,2016-2020,Male and Female,127.5,120,75364
+Wyoming,Converse County,All Types of Cancer,2016-2020,Male and Female,143.2,129,69211
+Wyoming,Big Horn County,All Types of Cancer,2016-2020,Male and Female,152.4,134,59045
+Wyoming,Lincoln County,All Types of Cancer,2016-2020,Male and Female,111.8,135,98199
+Wyoming,Uinta County,All Types of Cancer,2016-2020,Male and Female,127.5,144,101870
+Wyoming,Goshen County,All Types of Cancer,2016-2020,Male and Female,169.9,182,66507
+Wyoming,Albany County,All Types of Cancer,2016-2020,Male and Female,110.4,183,193318
+Wyoming,Park County,All Types of Cancer,2016-2020,Male and Female,122.9,291,146366
+Wyoming,Campbell County,All Types of Cancer,2016-2020,Male and Female,159.7,299,234790
+Wyoming,Sheridan County,All Types of Cancer,2016-2020,Male and Female,142.3,326,151986
+Wyoming,Sweetwater County,All Types of Cancer,2016-2020,Male and Female,161.3,337,216760
+Wyoming,Fremont County,All Types of Cancer,2016-2020,Male and Female,148.5,400,198555
+Wyoming,Natrona County,All Types of Cancer,2016-2020,Male and Female,138.6,661,400336
+Wyoming,Laramie County,All Types of Cancer,2016-2020,Male and Female,145.8,872,496362

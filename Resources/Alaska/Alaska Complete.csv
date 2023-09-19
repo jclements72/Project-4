@@ -1,4 +1,4 @@
-,County,Alaska Boroughs_x,Income,Uninsured %,White Poverty %,Black Poverty %,Asian Poverty %,Foreign Poverty %,Native Poverty %,Hispanic Poverty %,Non Hispanic Poverty %,Area,Age-Adjusted New Case Rate,Case Count,Population,Age-Adjusted Death Rate,Death Count
+,County,FIPS,Income,Uninsured %,White Poverty %,Black Poverty %,Asian Poverty %,Foreign Poverty %,Native Poverty %,Hispanic Poverty %,Non Hispanic Poverty %,Area,Age-Adjusted New Case Rate,Case Count,Population,Age-Adjusted Death Rate,Death Count
 13,Aleutians East,2013,72258,4.5,14.6,2.1,21.2,24.7,44.1,10.5,89.5,Alaska,138.9,23,16946,Data not presented,Data not presented
 0,Aleutians West,2016,90708,3.8,24.5,3.5,47.5,45.3,10.5,9.7,90.3,Alaska,286.2,51,28538,114.2,19
 2,Anchorage,2020,88871,5.4,60.3,5.4,12.6,11,7.2,9.5,90.5,Alaska,444,6278,1460452,146.1,1878
